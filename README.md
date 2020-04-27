@@ -11,7 +11,7 @@ This repo is maintained by Contentful Operations Team at Topcoder. For questions
 
 The basic flow for handling a ticket is as follows:
 
-1. Assign the ticket to yourself, change the label to "tcx_Assigned", remove the "tcx_OpenForPickup" label.  Please only assign tickets to yourself when you are ready to work on it.  I don't want tickets assigned to someone and then not have them work on a ticket for 24 hours.  The goal here is a quick turnaround for the client.  If you can't work on a ticket immediately, leave it for someone else.
+1. Assign the ticket to yourself, change the label to "tcx_Assigned", remove the "tcx_OpenForPickup" label.  Please only assign tickets to yourself when you are ready to work on it.  I don't want tickets assigned to someone and then not have them work on a ticket for 36 hours.  The goal here is a quick turnaround for the client.  If you can't work on a ticket immediately, leave it for someone else.
 
 1. Complete the ticket and create a merge request within __36 hours__.  Please ensure your merge request can be merged automatically and that it's against the latest commit in Git when you create it.
 
