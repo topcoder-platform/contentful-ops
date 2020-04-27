@@ -47,7 +47,7 @@ Each ticket in GitLab has a dollar value.  That is the amount you will be paid w
 
 - You can do as many tickets as you want, as long as you follow the rules above.
 
-- If an assigned task is not done in 24 hours, you will need to explain why it is not completed as a comment on the ticket.
+- If an assigned task is not done in 36 hours, you will need to explain why it is not completed as a comment on the ticket.
 
 - You can ask questions directly on the GitLab ticket.
 
